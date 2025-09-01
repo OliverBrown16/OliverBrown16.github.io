@@ -3,13 +3,13 @@ title: "Oliver Brown"
 image: ""
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
+    url: "https://www.linkedin.com/in/oliver-brown-363779283/"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/OliverBrown16"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:obrown16@jh.com"
 output:
   postcards::jolla_blue
 ---
  
-Current Biostatistics Student at the Johns Hopkins Bloomberg School of Public Health.
+Current ScM Biostatistics Student at the Johns Hopkins Bloomberg School of Public Health.
