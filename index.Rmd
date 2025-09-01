@@ -1,6 +1,6 @@
 ---
 title: "Oliver Brown"
-image: ""
+image: "Profile.png"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/oliver-brown-363779283/"
@@ -11,5 +11,31 @@ links:
 output:
   postcards::jolla_blue
 ---
- 
-Current ScM Biostatistics Student at the Johns Hopkins Bloomberg School of Public Health.
+
+Hi, I'm Oliver! I'm a graduate student at Johns Hopkins University studying Biostatistics. 
+
+## <span style="color:  #63D4FD;"> Education</span>
+
+|  |  |
+|:--------------------------------------------------|:----------------|
+| **<span style="color:  #63D4FD;"> Johns Hopkins, Bloomberg School of Public Health</span>** | [2025 - Present]{style="float:right"} |
+| ScM in Biostatistics |  |
+|<br>| |
+| **<span style="color:  #63D4FD;"> University of Washington, Seattle</span>** | [2021 - 2025]{style="float:right"} |
+| B.S. in Statistics: Data Science, Minor in Mathematics |  |
+  
+--- 
+
+## <span style="color:  #63D4FD;"> Research Interests</span>
+<br>
+
+Causal Inference, Bayesian Statistics, Machine Learning, Health Policy, and Health Disparities.
+
+--- 
+
+## <span style="color:  #63D4FD;"> Hobbies</span>
+<br>
+
+I'm an avid reader (I'm currently reading *2666* by Roberto Bolaño), and movie watcher (my favorite is *Blue Velvet* dir. David Lynch). I also enjoy exploring the city, trying new cafes, and playing tennis.
+
+--- 
